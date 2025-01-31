@@ -22,9 +22,9 @@ The dataset is in CSV format and includes the following columns:
 ## Visualizations
 The following visualizations are included:
 
-Distribution of airplane prices.
-Boxplot of prices by sales region.
-Scatter plot of production year vs price.
-Correlation heatmap of various features.
-Conclusions
-The EDA results provide insights into the factors affecting airplane prices, highlighting differences by sales region and production year.
+-  Distribution of airplane prices.
+-  Boxplot of prices by sales region.
+-  Scatter plot of production year vs price.
+-  Correlation heatmap of various features.
+## Conclusions
+-  The EDA results provide insights into the factors affecting airplane prices, highlighting differences by sales region and production year.
